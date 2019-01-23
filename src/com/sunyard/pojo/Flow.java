@@ -24,5 +24,6 @@ public class Flow {
 	}
 	public void showMessage(){
 		System.out.println("aaaaaaa");
+		System.out.println("ccccccc");
 	}
 }	
