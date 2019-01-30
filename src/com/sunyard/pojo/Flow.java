@@ -32,6 +32,7 @@ public class Flow {
 		System.out.println("ggggggg");
         System.out.println("hhhhhhh");
         System.out.println("insert into 20190130 feature_yyf");
+		System.out.println("insert into 20190130 feature_yyf_newbranch");
 	}
 }	
 
