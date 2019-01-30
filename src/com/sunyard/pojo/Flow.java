@@ -29,20 +29,8 @@ public class Flow {
         System.out.println("ddddddd");
 		System.out.println("eeeeeee");
 		System.out.println("fffffff");
-	}
-	
-	public void add(int i,int j){
-		if(i>0){
-			System.out.println(i);
-		}
-//		else{
-//			System.out.println(i+j);
-//		}
-	}
-	
-	public static void main(String[] args) {
-		Flow flow=new Flow();
-		flow.add(-2, 3);
+		System.out.println("ggggggg");
+        System.out.println("hhhhhhh");
 	}
 }	
 
